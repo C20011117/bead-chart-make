@@ -1,0 +1,13 @@
+{
+  "revision": "mard-291-beadcolors-f97ff42-v1",
+  "brand": "MARD",
+  "count": 291,
+  "source": "https://github.com/maxcleme/beadcolors",
+  "commit": "f97ff4283d03cef5cd7e1071a86f5892e0c0c61b",
+  "raw_path": "raw/mard.csv",
+  "license": "MIT",
+  "contributor": "Asher",
+  "note": "Third-party display references, not manufacturer physical measurements. Includes all 291 references and extended families; does not simulate material effects. Replaces the former three-color reference rather than silently editing its RGB values.",
+  "upstream_sha256": "108a0118bc209e4a74fbfc2433c20a3b8ac6e8b91be0bbd412a1636ee05fb12b",
+  "bundled_sha256": "108a0118bc209e4a74fbfc2433c20a3b8ac6e8b91be0bbd412a1636ee05fb12b"
+}

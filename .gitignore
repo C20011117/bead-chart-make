@@ -1,0 +1,17 @@
+# Android / Gradle
+**/.gradle/
+**/.kotlin/
+**/build/
+**/local.properties
+**/artifacts/
+
+# IDE
+.idea/
+*.iml
+
+# Local agent and inspection files
+.codex/
+work/
+
+# Local reference media
+小红书视频_*.mp4
